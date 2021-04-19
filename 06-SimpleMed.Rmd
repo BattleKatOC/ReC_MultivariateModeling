@@ -300,6 +300,7 @@ semPaths(fit, #must identify the model you want to map
 title("Fake Data:  Simple Mediation")
 ```
 
+
 Hayes has great examples of APA style tables.  I haven't yet found a package that will turn this output into a journal-ready table, however the *semTable* package can at least write the output to a .csv file and you can further manipulate it into a table.
 
 ```{r export fitTABLE, results='hide'}
